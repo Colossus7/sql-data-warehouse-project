@@ -39,3 +39,5 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 ## 🌟 About Me
 
 Hi! I'm Owen Maha Putra, a Computer Science student at BINUS University, currently focusing on the Interactive Multimedia stream. While my academic path leans toward creative technology, I have interest in working with databases—particularly using SQL and MySQL. I enjoy exploring how data can be structured, optimized, and used to uncover insights, and I’m always looking to deepen my understanding of database systems and backend logic.
+
+Connect with my LinkedIn : https://www.linkedin.com/in/owen-maha-putra-828038213/
